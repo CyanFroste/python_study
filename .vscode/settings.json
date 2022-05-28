@@ -1,0 +1,6 @@
+{
+  "python.formatting.provider": "black",
+  "editor.fontLigatures": false,
+  "window.zoomLevel": 2,
+  "github.copilot.enable": { "*": false }
+}
